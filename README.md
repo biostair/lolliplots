@@ -8,6 +8,6 @@ and visualisations.
 
 A selection of images that the scripts generate
 
-![alt text](https://github.com/biostair/lolliplots/images/acat2_acat3_igfals_everything.png "Lolliplot")
+![alt text](https://github.com/biostair/lolliplots/tree/master/images/acat2_acat3_igfals_everything.png "Lolliplot")
 
 
