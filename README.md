@@ -8,9 +8,9 @@ and visualisations.
 
 A selection of images that the scripts generate
 
-![Gene Lolliplot](https://github.com/biostair/lolliplots/tree/master/images/acat2_acat3_igfals_everything.png)
+![Gene Lolliplot](https://github.com/biostair/lolliplots/blob/master/images/acat2_acat3_igfals_everything.png)
 
-![Multi Algorithm Upstream Analysis](https://github.com/biostair/lolliplots/tree/master/images/default_gene_annotations.png)
+![Multi Algorithm Upstream Analysis](https://github.com/biostair/lolliplots/blob/master/images/default_gene_annotations.png)
 
-![Genome-wide Plot](https://github.com/biostair/lolliplots/tree/master/images/ICR_intersect.png)
+![Genome-wide Plot](https://github.com/biostair/lolliplots/blob/master/images/ICR_intersect.png)
 
